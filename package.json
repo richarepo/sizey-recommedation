@@ -1,0 +1,22 @@
+{
+  "name": "sizey-recommedation",
+  "version": "1.0.0",
+  "description": "A popup for find my size button.",
+  "main": "sizey-recommedation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richarepo/sizey-recommedation.git"
+  },
+  "keywords": [
+    "MySizeButton"
+  ],
+  "author": "richarepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richarepo/sizey-recommedation/issues"
+  },
+  "homepage": "https://github.com/richarepo/sizey-recommedation#readme"
+}
